@@ -1,0 +1,45 @@
+body {
+    background-image: linear-gradient(90deg, #3b4cd2, #8698fa87);
+}
+
+h2{
+    text-align: center;
+    padding: 5px;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.btn{
+    background-color: rgb(123, 153, 250);
+    color: white;
+    
+}
+
+.input-group{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.container{
+    width: 60%;
+    margin: 16% auto 0px auto;
+    background-color: rgba(171, 204, 230, 0.864);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 18px;
+}
+
+.removed{
+    color: darkgray;
+}
+
+.removed label {
+    text-decoration: line-through;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+footer{
+    margin-bottom: 2%;
+}
